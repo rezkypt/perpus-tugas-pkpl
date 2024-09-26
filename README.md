@@ -1,6 +1,6 @@
 <h1 align="center">Laravel 8 Perpustakaan</h1>
 
-satu website Berdua
+<h1 align="center">Satu website dua orang</h1>
 
 ## Fitur 
 
